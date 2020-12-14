@@ -55,6 +55,11 @@ img {
 	height: auto;
 }
 
+.hover-outer-box{
+	height: 300px;
+}
+
+
 section {
 	margin: 5rem auto;
 }
@@ -228,14 +233,15 @@ hr {
 .hover-outer-box .hover-inner-box .hover-content{
 	text-align: center;
 	width: 100%;
-	padding: 1rem;
+	padding: 2rem;
+	height: 100%;
 }
 
 
 /* Serivces */
 
 .services .icon-row {
-	padding: 30px 0;
+	padding: 70px;
 }
 
 .services .icon {
@@ -305,7 +311,6 @@ hr {
 
 .contact{
 	margin-bottom: 0;
-	overflow-x: hidden;
 }
 
 .contact .container{
